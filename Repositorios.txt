@@ -1,0 +1,3 @@
+documentos: https://github.com/zhet0M/Documentos-GrupoCordillera
+Frontend: https://github.com/zhet0M/Frontend-GrupoCordillera-Angular
+Backend: https://github.com/zhet0M/grupo-cordillera-backend
